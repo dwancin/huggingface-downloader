@@ -5,6 +5,7 @@
 // @version      0.1
 // @description  Download all files from a Hugging Face model, dataset, or space.
 // @author       dwancin
+// @license      MIT
 // @match        https://huggingface.co/*/tree/main
 // @grant        GM_xmlhttpRequest
 // @grant        GM_download
