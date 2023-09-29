@@ -1,2 +1,5 @@
-# huggingface-downloader
-Download all files from a Hugging Face model, dataset, or space.
+# Hugging Face Downloader
+
+Download **all** files from a Hugging Face model, dataset, or space, all at once.
+
+![Screenshot](/screenshot.png)
